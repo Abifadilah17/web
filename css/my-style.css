@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;900&display=swap");
+* {
+  border-radius: 0 !important;
+}
+/* HEADER ==================== */
+.skincare-nav {
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+  font-size: 1.5em;
+}
+.home-title {
+  font-family: "Playfair Display", serif;
+  font-weight: 900;
+  font-size: 3em;
+}
+.home {
+  padding-top: 30vh;
+  padding-bottom: 30vh;
+  /* margin-top: 30vh; */
+  /* padding-top: 30%; */
+  background-color: salmon;
+}
+/* END HEADER ==================== */
