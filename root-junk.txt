@@ -1,3 +1,6 @@
 Lorem Ipsum test.
 
 sc : skincare
+
+warning : if the repository is 50mb file
+block : when repository 100mb
